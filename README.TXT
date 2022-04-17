@@ -4,8 +4,7 @@ PyBrain -- the Python Machine Learning Library
 
 INSTALLATION
 ------------
-Quick answer: make sure you have SciPy installed, then
-	python setup.py install
+Quick answer: pip install git+https://github.com/abnuo/pybrain.git
 	
 Longer answer: (if the above was any trouble) we keep more
 detailed installation instructions (including those
